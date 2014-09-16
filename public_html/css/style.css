@@ -339,7 +339,7 @@ html {
           z-index: 1000;
           padding: 1rem 1.5rem;
           
-          background: #222;
+          background: transparent;
           
           font-size: 2rem;
           line-height: 2rem;
