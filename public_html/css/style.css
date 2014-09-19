@@ -15,7 +15,7 @@ nav a {
 }
 
 img{
-    width: 600px;
+    width: 350px;
     height: 400px;
     border: 3px solid purple;
 }
@@ -48,7 +48,7 @@ body {
     border-radius: 5px;
     padding: 14px 7px;
     background: white;
-    width: 660px;
+    width: 300px;
     overflow: hidden;
     margin: 150px auto 0;
     box-shadow:0 2px 3px rgba(71, 71, 71, 0.31);
@@ -2071,4 +2071,7 @@ asideanime{
     body{
         font-size: 1.5; /*1.5x default size */
     }
+  }
+  .image{
+      padding:10px 10px 10px 10px;
   }
