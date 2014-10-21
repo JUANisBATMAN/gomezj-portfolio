@@ -2069,7 +2069,7 @@ asideanime{
 
 @media all.and (max-width: 1200px) { /* screen size until 1200px */
     body{
-        font-size: 1.5; /*1.5x default size */
+        font-size: 1.5px; /*1.5x default size */
     }
   }
   .image{
